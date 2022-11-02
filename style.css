@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+}
+
+
+
+#twoHeading{
+    background-color: black;
+    color: yellow;
+}
+.thirdHeading{
+    background-color: bisque;
+}
+div{
+    background-color: pink;
+    color: aliceblue;
+}
+
+div>h1{
+    color: blue;
+}
